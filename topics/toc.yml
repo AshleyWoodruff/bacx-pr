@@ -3,43 +3,43 @@
   - name: Contributors guide for Docs
     items:
     - name: Contributors guide for PMs/Devs
-      href: contributors-guide.md
+      href: Docs/contributors-guide.md
     - name: Get started
-      href: get-started.md
+      href: Docs/get-started.md
     - name: Work directly in our repos
       items:
       - name: Overview
-        href: work-repos.md
+        href: Docs/work-repos.md
       - name: Make quick edits to a topic
-        href: make-quick-edits.md
+        href: Docs/make-quick-edits.md
       - name: Make extensive changes
-        href: make-extensive-changes.md
+        href: Docs/make-extensive-changes.md
       - name: Make major or long-running changes
-        href: make-major-changes.md
+        href: Docs/make-major-changes.md
       - name: View doc builds for your changes
-        href: view-doc-builds.md
+        href: Docs/view-doc-builds.md
       - name: Request a manual doc build
-        href: request-doc-build.md
+        href: Docs/request-doc-build.md
       - name: Delete topics
-        href: delete-rename.md
+        href: Docs/delete-rename.md
     - name: Requirements for creating links
-      href: linking.md
+      href: Docs/linking.md
     - name: Public repo pull-requests
-      href: public-pr-contribution-guide.md
+      href: Docs/public-pr-contribution-guide.md
     - name: "Legacy: Fork our repo"
-      href: legacy-fork-repo.md
+      href: Docs/legacy-fork-repo.md
   - name: GitHub guide
     items:
     - name: Review links
-      href: review-links.md
+      href: GitHub/review-links.md
     - name: Permission levels
-      href: permission-levels.md
+      href: GitHub/permission-levels.md
     - name: Repos managed by crmce
-      href: crmce-repos.md
+      href: GitHub/crmce-repos.md
     - name: Cheat sheet
-      href: gh-cheat-sheet.md
+      href: GitHub/gh-cheat-sheet.md
     - name: FAQs
-      href: GitHub-FAQ.md
+      href: GitHub/GitHub-FAQ.md
   - name: Release plans guide
     items:
     - name: Overview
