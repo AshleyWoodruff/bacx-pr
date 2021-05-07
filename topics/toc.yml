@@ -43,73 +43,73 @@
   - name: Release plans guide
     items:
     - name: Overview
-      href: rn-guide.md
+      href: Release-Plans/rn-guide.md
     - name: Production schedule
-      href: rn-production-schedule.md
+      href: Release-Plans/rn-production-schedule.md
     - name: "What's new in the release planner app"
       items: 
       - name: 2021 Q4
-        href: rn-2021Q4.md 
+        href: Release-Plans/New-Features/rn-2021Q4.md 
     - name: Content development
       items:
       - name: Workflow
-        href: rn-content-workflow.md
+        href: Release-Plans/Content-Development/rn-content-workflow.md
       - name: Best practices and requirements
-        href: rn-dos-donts.md
+        href: Release-Plans/Content-Development/rn-dos-donts.md
       - name: Images, screenshots, and GIFs
-        href: rn-images-and-screenshots.md
+        href: Release-Plans/Content-Development/rn-images-and-screenshots.md
     - name: "Contributor's form"
       items: 
     - name: "BACX Owner's form"
       items: 
       - name: Quick-reference guide
-        href: rn-quick-reference-guide.md
+        href: Release-Plans/Owners/rn-quick-reference-guide.md
       - name: FAQs
-        href: Tool-FAQ.md
+        href: Release-Plans/Owners/Tool-FAQ.md
       - name: Overview
-        href: tool-get-started.md
+        href: Release-Plans/Owners/tool-get-started.md
       - name: Create new entry
-        href: tool-create-new-entry.md
+        href: Release-Plans/Owners/tool-create-new-entry.md
       - name: Generate review document
-        href: generate-review-document.md
+        href: Release-Plans/Owners/generate-review-document.md
       - name: Add images
-        href: add-images.md
+        href: Release-Plans/Owners/add-images.md
       - name: Best practices and requirements
-        href: tool-best-practices.md
+        href: Release-Plans/Owners/tool-best-practices.md
       - name: Repos and POCs
-        href: rn-repo.md
+        href: Release-Plans/Owners/rn-repo.md
       - name: Best practices
-        href: rn-gh-best-practices.md
+        href: Release-Plans/Owners/rn-gh-best-practices.md
       - name: Dos and Don'ts
-        href: rn-gh-dos-and-donts.md
+        href: Release-Plans/Owners/rn-gh-dos-and-donts.md
       - name: Merging & approving PRs
-        href: rn-gh-merging-approving-prs.md
+        href: Release-Plans/Owners/rn-gh-merging-approving-prs.md
   - name: Style guide
     items:
     - name: "SEO: Tips for writing H1s"
-      href: write-a-heading-1.md
+      href: Style-Guide/write-a-heading-1.md
     - name: "SEO: Write good meta descriptions"
-      href: write-good-descriptions.md
+      href: Style-Guide/write-good-descriptions.md
     - name: "SEO: Tips for writing titles"
-      href: write-titles.md
+      href: Style-Guide/write-titles.md
     - name: Update the msdate metadata
-      href: msdate.md
+      href: Style-Guide/msdate.md
     - name: Fictitious names and addresses
-      href: fictitious-names.md
+      href: Style-Guide/fictitious-names.md
     - name: Legal document publishing
-      href: legaldocs.md
+      href: Style-Guide/legaldocs.md
     - name: Release plans style best practices
-      href: style-tips.md
+      href: Style-Guide/style-tips.md
   - name: Editor's guide
     items:
     - name: Overview
-      href: editor-guide.md
+      href: Editors/editor-guide.md
     - name: Types of edits
-      href: types-of-edits.md
+      href: Editors/types-of-edits.md
     - name: Editing blogs
-      href: editing-blogs.md
+      href: Editors/editing-blogs.md
     - name: Editing queue
-      href: editing-queue.md
+      href: Editors/editing-queue.md
   - name: Technical videos
     items:
     - name: Technical videos
