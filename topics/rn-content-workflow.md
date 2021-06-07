@@ -28,12 +28,12 @@ These release plans and PDFs are archived and will no longer be updated.
 - **[Dynamics 365: 2020 release wave 2 plan](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/)**
 - **[Microsoft Power Platform: 2020 release wave 2 plan](https://docs.microsoft.com/power-platform-release-plan/2020wave2/)**
 - **[Dynamics 365: 2020 release wave 1 plan](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/index)**
-- **[Microsoft Power Platform: 2020 release wave 1 plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/)**
+- **[Microsoft Power Platform: 2020 release wave 1 plan](https://docs.microsoft.com/power-platform-release-plan/2020wave1/)**
 - **[Dynamics 365: 2019 release wave 2 plan](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/)**
 - **[Power Platform: 2019 release wave 2 plan](https://docs.microsoft.com/power-platform-release-plan/2019wave2/)**
 - **[April '19 release notes](https://docs.microsoft.com/business-applications-release-notes/April19/index)**
 - **[October '18 release notes](https://docs.microsoft.com/business-applications-release-notes/October18/index)**
-- **[April '18 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April18/index)**
+- **[April '18 release notes](https://docs.microsoft.com/business-applications-release-notes/April18/index)**
 
 ## Release plan fields
 
